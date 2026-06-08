@@ -2,7 +2,7 @@
 
 ## Information Technology Graduate | Full-Stack Developer | AI Enthusiast
 
-I'm an IT graduate who loves building real-world applications using modern web technologies and artificial intelligence. I enjoy turning ideas into functional, user-friendly digital products—whether it's a full-stack web app, an AI assistant, or a mobile application.
+I'm an recent IT graduate who loves building real-world applications using modern web technologies and artificial intelligence. I enjoy turning ideas into functional, user-friendly digital products—whether it's a full-stack web app, an AI assistant, or a mobile application.
 
 ---
 
